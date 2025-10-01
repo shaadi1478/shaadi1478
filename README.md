@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm SHEIKH SADI</h1>
+<h1 align="center">Hi 👋,
+ <br> I'M SHEIKH SADI</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;UI+%26+UX+Lover;Always+Learning+New+Things" alt="Typing SVG" />
 </h3>
